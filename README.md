@@ -1,4 +1,6 @@
 SGDO - Sistema de Gerenciamento de Outorga
+
+
 Bem-vindo ao repositório do SGDO – um sistema desenvolvido internamente para a gestão eficiente de processos de outorga. O SGDO foi criado com o objetivo de centralizar e organizar dados e, assim, proporcionar um acompanhamento preciso de cada processo, permitindo a geração de relatórios confiáveis e insights de valor para a instituição.
 
 📋 Sobre o Sistema
